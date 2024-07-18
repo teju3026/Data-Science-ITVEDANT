@@ -1,3 +1,3 @@
-s# Data-Science-ITVEDANT
+# Data-Science-ITVEDANT
 Batch No 306
 
